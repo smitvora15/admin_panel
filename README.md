@@ -1,2 +1,2 @@
 # admin_panel
-https://smitvora15.github.io/admin_panel/index.php
+https://smitvora15.github.io/admin_panel/index.html
